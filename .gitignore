@@ -1,1 +1,11 @@
+# Netbeans #
+/nb-configuration.xml
+
+# Eclipse #
+.classpath
+.project
+.settings/
+
+# Maven #
 target/
+/bin
